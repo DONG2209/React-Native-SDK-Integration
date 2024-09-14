@@ -2,17 +2,15 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-> npx react-native init sdkReactNativedemo
-
-> Recommend : java 17 ; sdk 26 + 
-
-> Open the App.js file and replace the values of <SDK KEY> & <SDK SECRET> with your credentials (https://app.singular.net/#/react/home)
-
-> Reference : 
-> - https://support.singular.net/hc/en-us/articles/360038415852-React-Native-SDK-Integration
-> - https://github.com/singular-labs/react-native-sample-app
+>**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding. 
+```
+npx react-native init sdkReactNativedemo
+Recommend : java 17 ; sdk 26 + 
+Open the App.js file and replace the values of <SDK KEY> & <SDK SECRET> with your credentials (https://app.singular.net/#/react/home)
+Reference : 
+- https://support.singular.net/hc/en-us/articles/360038415852-React-Native-SDK-Integration
+- https://github.com/singular-labs/react-native-sample-app
+```
 
 ## Step 1: Start the Metro Server
 
